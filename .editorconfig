@@ -1,0 +1,6 @@
+
+[*]
+
+# ReSharper properties
+resharper_indent_access_specifiers_from_class = false
+resharper_indent_class_members_from_access_specifiers = false
